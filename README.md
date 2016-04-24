@@ -1,0 +1,2 @@
+# Hexo
+My Hexo Repo
